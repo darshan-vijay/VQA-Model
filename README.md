@@ -2,7 +2,7 @@
 
 **Author:** Darshan Vijayaraghavan  
 **Course:** Neural Networks and Deep Learning  
-**Assignment:** Lab 3 – Visual Question Answering Challenge
+Visual Question Answering Challenge
 
 ---
 
